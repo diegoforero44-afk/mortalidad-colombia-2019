@@ -1,7 +1,7 @@
 # Mortalidad en Colombia 2019 · Aplicación web interactiva con Dash
 
-**Aplicación desplegada:** RENDER_URL
-**Repositorio:** https://github.com/diegoforero44-afk/mortalidad-colombia-2019
+- **Aplicación desplegada (Render):** https://mortalidad-colombia-2019-zn1i.onrender.com
+- **Repositorio:** https://github.com/diegoforero44-afk/mortalidad-colombia-2019
 
 Actividad 4 – Aplicaciones I (Maestría en Inteligencia Artificial, Universidad de La Salle).
 Autor: **Diego Forero**.
